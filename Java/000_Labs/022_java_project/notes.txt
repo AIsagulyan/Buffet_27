@@ -15,6 +15,8 @@ Goal: Create a digital slot machine!
 - When the user runs out of money
        - The game ends
 
-An example of how the program should run is on the GitHub repository under "100_HW/HW5_Slots". Run the program for the output I'm looking for :D   
+An example of how the program should run is on the GitHub repository under 
+"100_HW/HW5_Slots". Run the program for the output I'm looking for :D   
 
-Extra Credit: Make this digital slot machine a method that your main method can call. If you’re ambitious, you can make Blackjack or other games for the user to play. :) Good luck!
+Extra Credit: Make this digital slot machine a method that your main method can call.
+ If you’re ambitious, you can make Blackjack or other games for the user to play. :) Good luck!
